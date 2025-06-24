@@ -1,7 +1,3 @@
-# dhanlekha
-💰 DhanLekha – Track personal loans, repayments, and due alerts in a full-featured MVP built as an SPA using JavaScript.
-
-
 # 💰 DhanLekha – Personal Loan Management System
 
 **DhanLekha** is a full-featured Minimum Viable Product (MVP) for tracking personal loans — both given and taken — with repayment tracking, due alerts, dashboard summaries, and data export.
