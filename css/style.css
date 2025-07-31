@@ -1,0 +1,89 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background: #333;
+  padding: 1rem;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.navbar img{
+    height: 50px;
+    width: 50px;
+    border-radius: 5px;
+}
+
+.Logo{
+    display: flex;
+    align-items: center;
+    gap:10px;
+}
+
+.Logo span {
+  font-weight: bold;
+  font-size: 18px; /* Adjust as needed */
+}
+
+
+.nav-links li {
+  display: inline;
+  margin: 0 1rem;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: #fff; 
+}
+
+.login-btn {
+  padding: 6px 12px;
+  background-color: #007bff;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.login-btn:hover {
+  background-color: #0056b3;
+}
+
+.hero-section {
+  background-image: url('../assets/background.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px; 
+  width: 800px;
+  position: relative;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-left: 310px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+.overlay-text {
+  padding: 20px;
+  border-radius: 8px;
+}
+
+
+section {
+  padding: 2rem;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #222;
+  color: white;
+}
